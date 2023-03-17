@@ -1,2 +1,4 @@
 # MarkL
- Testes funcionais automatizados
+ Testes funcionais automatizados, usando JS e Cypress
+
+
